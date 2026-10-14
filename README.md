@@ -26,7 +26,7 @@ If the app is currently running locally, replace this section with a short scree
 
 ## Code
 
-- **GitHub repository:** [Add your public GitHub repository URL]
+- **GitHub repository:** https://github.com/guunda/HustleWrite
 
 The repository should include the source code, setup instructions, an `.env.example` file, and the project license.
 
